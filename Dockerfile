@@ -1,4 +1,4 @@
-FROM openjdk:8
+FROM openjdk:11-jre-slim
 
 # Set the working directory
 WORKDIR /app
